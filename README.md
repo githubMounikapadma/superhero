@@ -1,5 +1,5 @@
 # SuperHero-Hunter_App
-Hosted link https://ks441-ctrl.github.io/Super-Hero-Hunter/
+Hosted link:
 This super-hero hunter application build to search for any superhero ,get details about  superheroes and to add these superheroes to favourite list.
 <br>
 # Process to execute
